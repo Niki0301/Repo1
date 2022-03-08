@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 66E1-15EC
+
+ Directory of C:\Users\Nikita\Desktop\MyProject
+
+08-03-2022  18:11    <DIR>          .
+08-03-2022  18:08    <DIR>          ..
+08-03-2022  18:11                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  334,319,022,080 bytes free
